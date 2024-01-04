@@ -16,7 +16,33 @@
 
 ####   🛠️ Languages / Tools
  
-[![My Skills](https://skillicons.dev/icons?i=java,js,css,html,jquery,spring,aws,gcp,azure,react,vue,flutter)](https://github.com/manex3/github-readme-stats)
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="gcp logo"  />
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react logo" width="45" height="40" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="45" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+  <img width="12" />
+
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5">
 
