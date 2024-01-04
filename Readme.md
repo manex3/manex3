@@ -65,7 +65,7 @@
 <a href="https://www.instagram.com/invites/contact/?i=1w5tbi5x9ej4s&utm_content=2wtxfzl"> <img src="https://img.shields.io/badge/-@manex3-1877F2?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:manex3@nate.com"><img src="https://img.shields.io/badge/-manex3@nate.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://discord.com/users/manex3@nate.com" target="_blank"><img src="https://img.shields.io/badge/-@manex3-1877F2?style=flat&logo=discord&logoColor=white"/></a>
-<a href="https://facebook.com/manex3" target="_blank"><img src="https://img.shields.io/badge/-@manex3-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+<a href="https://facebook.com/manex333@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-@manex3-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5">
 
 
