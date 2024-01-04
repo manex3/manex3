@@ -16,7 +16,7 @@
 
 ####   🛠️ Languages / Tools
  
-[![My Skills](https://skillicons.dev/icons?i=java,js,css,html,jquery,spring,aws,gcp,azure,react,vue,flutter&perline=6)](https://github.com/manex3/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=java,js,css,html,jquery,spring,aws,gcp,azure,react,vue,flutter)](https://github.com/manex3/github-readme-stats)
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5">
 
