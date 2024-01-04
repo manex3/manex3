@@ -8,11 +8,13 @@
 <body>
 
  
-#### ☁ Google Cloud Certified Cloud Digital 
+####  ☁ Cloud Certified Cloud Digital
+
 ####  👋 Hi, my name is minwoo jun
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5">
-#### 🛠️ Languages / Tools
+
+####   🛠️ Languages / Tools
  
 [![My Skills](https://skillicons.dev/icons?i=java,js,css,html,jquery,spring,aws,gcp,azure,react,vue,flutter&perline=6)](https://github.com/manex3/github-readme-stats)
 
