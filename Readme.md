@@ -10,7 +10,7 @@
  
 ####  ☁ Cloud Certified Cloud Digital
 
-####  👋 Hi, my name is minwoo jun
+####  👋 Hi there, my name is minwoo jun
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5">
 
@@ -49,6 +49,7 @@
 #### ⭐GitHub Analytics⭐
 
 <a href="https://github.com/manex3">
+
   <img height="160" alt="languages graph" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manex3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manex3&layout=compact&langs_count=8&theme=algolia"/>
 </a>
