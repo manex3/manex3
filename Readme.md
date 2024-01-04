@@ -14,7 +14,7 @@
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?username=manex3)]
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?username=manex3)
 
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="780" height="5">
 
